@@ -1,2 +1,4 @@
-Line 3 from feature-branch
 
+Line 1
+Line 2 from main branch
+Line 2 from testing branch
